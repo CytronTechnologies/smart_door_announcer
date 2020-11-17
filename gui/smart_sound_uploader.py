@@ -72,7 +72,7 @@ def change_dropdown(*args):
 window = Tk() 
    
 # Set window title 
-window.title('CytronPi Announcer') 
+window.title('Smart Sound Uploader') 
    
 #Set window background color 
 window.config(background = "white") 
